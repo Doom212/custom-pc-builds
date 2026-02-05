@@ -31,12 +31,6 @@
 
 ---
 
-## **Gallery**
-*Add your photos here by dragging them into the GitHub folder and linking them like this:*
-![Finished Build Front View](IMG_3782.jpg)
-
----
-
 **Client:** Freelance Contract  
 **Objective:** To design and assemble a custom PC optimised for 1080/1440p gaming and heavy multitasking within a budget of $2,500.
 
