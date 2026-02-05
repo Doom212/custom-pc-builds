@@ -33,5 +33,4 @@
 
 ## **Gallery**
 *Add your photos here by dragging them into the GitHub folder and linking them like this:*
-![Finished Build Front View](image-link-here.jpg)
-![Cable Management Detail](image-link-here.jpg)
+![Finished Build Front View](IMG_3782.jpg)
